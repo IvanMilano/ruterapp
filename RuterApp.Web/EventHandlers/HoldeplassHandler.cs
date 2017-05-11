@@ -1,6 +1,5 @@
 ﻿using System.Threading.Tasks;
 using NServiceBus;
-using RuterApp.Contracts;
 using RuterApp.Contracts.Events;
 using RuterApp.Web.Hubs;
 
