@@ -1,4 +1,4 @@
-﻿namespace RuterApp.Klient
+﻿namespace RuterApp.Models
 {
     public class Stop
     {

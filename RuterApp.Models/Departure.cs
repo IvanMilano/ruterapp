@@ -4,7 +4,6 @@ namespace RuterApp.Models
 {
     public class Departure
     {
-
             public DateTime RecordedAtTime { get; set; }
             public string MonitoringRef { get; set; }
             public Monitoredvehiclejourney MonitoredVehicleJourney { get; set; }
