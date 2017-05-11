@@ -1,10 +1,9 @@
 ﻿using Microsoft.Owin;
-
 using Owin;
-using RuterApp.Web.App_Start;
+using RuterApp.Web;
 
 [assembly: OwinStartup(typeof(SignalRStartup))]
-namespace RuterApp.Web.App_Start
+namespace RuterApp.Web
 {
     public class SignalRStartup
     {

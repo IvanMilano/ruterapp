@@ -1,5 +1,5 @@
 ﻿using System;
-using RuterApp.Klient;
+using RuterApp.Models;
 
 namespace RuterApp.Web
 {

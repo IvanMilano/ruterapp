@@ -1,4 +1,4 @@
-﻿namespace RuterApp.Klient
+﻿namespace RuterApp.Models
 {
     public enum Direction
     {

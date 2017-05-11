@@ -1,6 +1,6 @@
 ﻿using System;
 using NServiceBus;
-using RuterApp.Klient;
+using RuterApp.Models;
 
 namespace RuterApp.Contracts.Events
 {
