@@ -5,6 +5,5 @@
     function(
         ko,
         ruterAppViewModel) {
-
         ko.applyBindings(ruterAppViewModel);
     });
